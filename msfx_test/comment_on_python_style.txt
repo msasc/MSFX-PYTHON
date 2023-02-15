@@ -1,0 +1,30 @@
+Python has a set of coding conventions, also known as the "PEP 8 style guide",
+that provide a consistent and readable style for Python code. These conventions
+cover topics such as naming conventions, code structure, whitespace usage, and commenting.
+Here are some of the key points from the PEP 8 style guide:
+
+Naming Conventions:
+
+Class names should be in CamelCase (e.g. MyClass).
+Function and variable names should be in lowercase with words separated by underscores (e.g. my_function, my_variable).
+Constants should be in uppercase with words separated by underscores (e.g. MY_CONSTANT).
+Code Structure:
+
+Indentation should be 4 spaces. Tabs should not be used.
+Lines should be limited to a maximum of 79 characters.
+Functions and classes should be separated by two blank lines.
+Within functions, blocks of code should be separated by a single blank line.
+Whitespace:
+
+Surround binary operators with a single space on either side.
+Use spaces around assignment operators.
+Do not use spaces around the = in keyword arguments.
+Comments:
+
+Use # for inline comments.
+Use triple-quoted strings for multiline comments or docstrings.
+Write meaningful and clear comments that explain the purpose of code.
+
+By following these conventions, you can make your code easier to read and understand
+for other developers. However, it's important to note that the most important thing
+is to be consistent in your style and to make sure that your code is readable and maintainable.
